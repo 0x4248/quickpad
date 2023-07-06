@@ -1,6 +1,7 @@
 /* Quickpad
  * A simple text editor for editing text quickly.
  * Github: https://github.com/lewisevans2007/quickpad
+ * Licence: GNU General Public License v3.0
  * By: Lewis Evans
  */
 
