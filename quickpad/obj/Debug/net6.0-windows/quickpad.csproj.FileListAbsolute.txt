@@ -1,0 +1,17 @@
+C:\Users\aweso\Desktop\quickpad\quickpad\obj\Debug\net6.0-windows\quickpad.csproj.AssemblyReference.cache
+C:\Users\aweso\Desktop\quickpad\quickpad\obj\Debug\net6.0-windows\quickpad.main.resources
+C:\Users\aweso\Desktop\quickpad\quickpad\obj\Debug\net6.0-windows\quickpad.csproj.GenerateResource.cache
+C:\Users\aweso\Desktop\quickpad\quickpad\obj\Debug\net6.0-windows\quickpad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aweso\Desktop\quickpad\quickpad\obj\Debug\net6.0-windows\quickpad.AssemblyInfoInputs.cache
+C:\Users\aweso\Desktop\quickpad\quickpad\obj\Debug\net6.0-windows\quickpad.AssemblyInfo.cs
+C:\Users\aweso\Desktop\quickpad\quickpad\obj\Debug\net6.0-windows\quickpad.csproj.CoreCompileInputs.cache
+C:\Users\aweso\Desktop\quickpad\quickpad\bin\Debug\net6.0-windows\quickpad.exe
+C:\Users\aweso\Desktop\quickpad\quickpad\bin\Debug\net6.0-windows\quickpad.deps.json
+C:\Users\aweso\Desktop\quickpad\quickpad\bin\Debug\net6.0-windows\quickpad.runtimeconfig.json
+C:\Users\aweso\Desktop\quickpad\quickpad\bin\Debug\net6.0-windows\quickpad.dll
+C:\Users\aweso\Desktop\quickpad\quickpad\bin\Debug\net6.0-windows\quickpad.pdb
+C:\Users\aweso\Desktop\quickpad\quickpad\obj\Debug\net6.0-windows\quickpad.dll
+C:\Users\aweso\Desktop\quickpad\quickpad\obj\Debug\net6.0-windows\refint\quickpad.dll
+C:\Users\aweso\Desktop\quickpad\quickpad\obj\Debug\net6.0-windows\quickpad.pdb
+C:\Users\aweso\Desktop\quickpad\quickpad\obj\Debug\net6.0-windows\quickpad.genruntimeconfig.cache
+C:\Users\aweso\Desktop\quickpad\quickpad\obj\Debug\net6.0-windows\ref\quickpad.dll
