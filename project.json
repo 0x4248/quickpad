@@ -1,0 +1,12 @@
+{
+    "name": "quickpad",
+    "description": "A simple text editor for editing text quickly.",
+    "version": "",
+    "main_file": "quickpad/Program.cs",
+    "author": "Lewis Evans",
+    "license": "GNU General Public License v3.0",
+    "url": "https://github.com/lewisevans2007/quickpad",
+    "email": "none",
+    "languages": [],
+    "actions": {}
+}
