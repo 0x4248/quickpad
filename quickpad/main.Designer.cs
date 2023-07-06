@@ -1,4 +1,10 @@
-﻿namespace quickpad
+﻿/* Quickpad
+ * A simple text editor for editing text quickly.
+ * Github: https://github.com/lewisevans2007/quickpad
+ * By: Lewis Evans
+ */
+ 
+namespace quickpad
 {
     partial class main
     {

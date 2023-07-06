@@ -1,4 +1,10 @@
-﻿using System;
+﻿/* Quickpad
+ * A simple text editor for editing text quickly.
+ * Github: https://github.com/lewisevans2007/quickpad
+ * By: Lewis Evans
+ */
+
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
