@@ -122,6 +122,8 @@ namespace quickpad
                 Copy.ForeColor = Color.White;
                 Top_toggle.BackColor = Color.FromArgb(30, 30, 30);
                 Top_toggle.ForeColor = Color.White;
+                About.BackColor = Color.FromArgb(30, 30, 30);
+                About.ForeColor = Color.White;
             }
             else
             {
