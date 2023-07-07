@@ -51,15 +51,16 @@
             Version.TabIndex = 1;
             Version.Text = "Version";
             // 
-            // about_forum
+            // about_window
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(277, 114);
             Controls.Add(Version);
             Controls.Add(Title);
-            Name = "about_forum";
+            Name = "about_window";
             Text = "about_forum";
+            TopMost = true;
             Load += about_forum_Load;
             ResumeLayout(false);
             PerformLayout();
