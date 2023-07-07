@@ -44,6 +44,7 @@ namespace quickpad
             Paste = new Button();
             Top_toggle = new Button();
             Copy = new Button();
+            About = new Button();
             SuspendLayout();
             // 
             // TextBox
@@ -135,12 +136,23 @@ namespace quickpad
             Copy.UseVisualStyleBackColor = true;
             Copy.Click += Copy_Click;
             // 
+            // About
+            // 
+            About.Location = new Point(202, 9);
+            About.Name = "About";
+            About.Size = new Size(64, 23);
+            About.TabIndex = 8;
+            About.Text = "About";
+            About.UseVisualStyleBackColor = true;
+            About.Click += About_Click;
+            // 
             // main
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             CancelButton = Plus;
             ClientSize = new Size(437, 457);
+            Controls.Add(About);
             Controls.Add(Copy);
             Controls.Add(Top_toggle);
             Controls.Add(Paste);
@@ -152,6 +164,7 @@ namespace quickpad
             Icon = (Icon)resources.GetObject("$this.Icon");
             MinimumSize = new Size(453, 496);
             Name = "main";
+            SizeGripStyle = SizeGripStyle.Show;
             Text = "quickpad";
             TopMost = true;
             FormClosed += Form_Close_Click;
@@ -169,5 +182,6 @@ namespace quickpad
         private Button Paste;
         private Button Top_toggle;
         private Button Copy;
+        private Button About;
     }
 }

@@ -168,5 +168,13 @@ namespace quickpad
                 Top_toggle.Text = "Untoggle window in front";
             }
         }
+
+        private void About_Click(object sender, EventArgs e)
+        {
+            //open about_window.cs
+            about_window about_window = new about_window();
+            about_window.Show();
+
+        }
     }
 }
