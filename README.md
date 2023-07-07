@@ -1,4 +1,4 @@
-# Quick pad
+# Quickpad
 
 A simple text editor for editing text quickly.
 
