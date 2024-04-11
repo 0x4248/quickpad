@@ -3,9 +3,9 @@
     "description": "A simple text editor for editing text quickly.",
     "version": "",
     "main_file": "quickpad\\Program.cs",
-    "author": "Lewis Evans",
+    "author": "0x4248",
     "license": "none",
-    "url": "https://www.github.com/lewisevans2007/quickpad",
+    "url": "https://www.github.com/0x4248/quickpad",
     "email": "none",
     "languages": [],
     "actions": {}
